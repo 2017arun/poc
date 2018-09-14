@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 public class ActivityD extends AppCompatActivity {
+    String  str = "Activity D";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
