@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Toast;
 
 public class ActivityC extends AppCompatActivity {
+	String str = "Activity C";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
